@@ -1,7 +1,7 @@
 # SQL CHEAT
 
 ### Create & use DATABASE
-``` CREATE TABLE nom_de_la_bdd;```
+``` CREATE TABLE nom_de_la_bdd;```<br>
 ``` USE nom_de_la_table; ```
 
 #### List all Databases 
@@ -36,16 +36,16 @@ CREATE TABLE nom_de_la_table (
 ```INSERT INTO nom_de_la_table (name, age, is_visible, address, birthday) VALUES ('plop', 15, 1, 'la fayette 75010', '1985-01-01'), (Other values) , (Other values);```
 
 #### Change structure of table
-``` ALTER TABLE nom_de_la_table ADD nom_colomn TYPE OPTION;```
-Exemple pour ajouter une colonne : 
+``` ALTER TABLE nom_de_la_table ADD nom_colomn TYPE OPTION;```<br>
+Exemple pour ajouter une colonne : <br>
 ``` ALTER TABLE nom_de_la_table ADD zipcode INT NOT NULL;```
 
 #### Update value
-``` UPDATE nom_de_la_table SET nom_colomn='value';```
+``` UPDATE nom_de_la_table SET nom_colomn='value';``` <br>
 ``` UPDATE nom_de_la_table SET nom_colomn='value' WHERE id=1;```
 
 #### Delete value
-``` DELETE FROM nom_de_la_table WHERE *condition*;```
+``` DELETE FROM nom_de_la_table WHERE *condition*;```<br>
 ``` DELETE FROM nom_de_la_table WHERE id=1;```
 
 #### Delete all values from table
