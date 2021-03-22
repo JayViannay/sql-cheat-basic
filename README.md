@@ -49,7 +49,7 @@ Exemple pour ajouter une colonne : <br>
 ``` DELETE FROM nom_de_la_table WHERE id=1;```
 
 #### Delete all values from table
-``` TRUNCATE table nom_de_la_table;```
+``` TRUNCATE TABLE nom_de_la_table;```
 
 #### Delete table
 ``` DROP TABLE nom_de_la_table;```
