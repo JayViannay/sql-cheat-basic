@@ -52,4 +52,4 @@ Exemple pour ajouter une colonne : <br>
 ``` TRUNCATE table nom_de_la_table;```
 
 #### Delete table
-``` DROP nom_de_la_table;```
+``` DROP TABLE nom_de_la_table;```
