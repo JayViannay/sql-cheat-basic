@@ -2,7 +2,7 @@
 
 ### Create & use DATABASE
 ``` CREATE DATABASE nom_de_la_bdd;```<br>
-``` USE nom_de_la_table; ```
+``` USE nom_de_la_bdd; ```
 
 #### List all Databases 
 ```SHOW DATABASES;```
