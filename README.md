@@ -1,7 +1,7 @@
 # SQL CHEAT
 
 ### Create & use DATABASE
-``` CREATE TABLE nom_de_la_bdd;```<br>
+``` CREATE DATABASE nom_de_la_bdd;```<br>
 ``` USE nom_de_la_table; ```
 
 #### List all Databases 
